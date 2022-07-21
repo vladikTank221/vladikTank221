@@ -1,4 +1,4 @@
-Hey, I'm pro Unity developer - just working on my first project with huge/wide dev team. We're so exited to do something. GL to other devs and aspecial for us!
+Abebba project dev is going on.
 
 <!---
 vladikTank221/vladikTank221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
