@@ -1,4 +1,4 @@
-Abebba project dev is going on.
+** project dev is not going on.
 
 <!---
 vladikTank221/vladikTank221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
